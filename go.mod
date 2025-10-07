@@ -1,4 +1,4 @@
-module github.com/kubensage/go-common
+module github.com/kubensage/common
 
 go 1.24.4
 

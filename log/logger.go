@@ -8,7 +8,7 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/kubensage/go-common/cli"
+	"github.com/kubensage/common/cli"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 	"gopkg.in/natefinch/lumberjack.v2"
